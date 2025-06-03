@@ -23,8 +23,8 @@ Use cv2.imshow to show the video.
 End the program and close the output video window by pressing 'q'.
 
 ## Program:
-**Developed By:** Ashwina K N
-**Register No:** 212223230025
+**Developed By:** sowmya badoni
+**Register No:** 212223230211
 
 ### i) Write the frame as JPG file
 ```
